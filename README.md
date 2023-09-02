@@ -21,6 +21,7 @@
 |      [KoAlpaca-KoRMKV](https://huggingface.co/beomi/KoAlpaca-KoRWKV-6B)      |            1.5B, 6B             |         [beomi](https://github.com/Beomi)          |       KoRMKV        |     ❓     |           [🤗 Huggingface](https://huggingface.co/beomi/KoRWKV-1.5B)            |
 |                 [KoGPT](https://github.com/kakaobrain/kogpt)                 |               6B                |      [카카오브레인](https://github.com/kakaobrain)       |          ❓          |     ❌     | [🤗 Huggingface](https://huggingface.co/kakaobrain/kogpt/tree/KoGPT6B-ryan1.5b) |
 |                  [KoGPT2](https://github.com/SKT-AI/KoGPT2)                  |              1.5B               |          [SKT](https://github.com/SKT-AI)          |        GPT-2        |     ❌     |                                        ❓                                        |
+|    [Llama-2-ko-7b-Chat](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)     |               7B                |    [taemin6697](https://github.com/taemin6697)     |       llama-2       |     ✅     |        [🤗 Huggingface](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)        |
 
 ## 한국어 오픈소스 LLM 모델
 
@@ -43,6 +44,7 @@
 - [Llama-2-Ko](https://huggingface.co/beomi/llama-2-ko-7b)
 - [komt](https://github.com/davidkim205/komt)
 - [llama-2-korean](https://huggingface.co/quantumaikr/llama-2-70b-fb16-korean)
+- [Llama-2-ko-7b-Chat](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)
 
 ### 3. 기타
 
