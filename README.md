@@ -24,6 +24,10 @@
 |    [Llama-2-ko-7b-Chat](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)     |               7B                |    [taemin6697](https://github.com/taemin6697)     |       llama-2       |     ✅     |        [🤗 Huggingface](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)        |
 |    [42dot_LLM-PLM-1.3B](https://huggingface.co/42dot/42dot_LLM-PLM-1.3B)     |              1.3B               |         [42dot](https://github.com/42dot)          |       llama-2       |     ❌     |        [🤗 Huggingface](https://huggingface.co/42dot/42dot_LLM-PLM-1.3B)        |
 |    [42dot_LLM-SFT-1.3B](https://huggingface.co/42dot/42dot_LLM-SFT-1.3B)     |              1.3B               |         [42dot](https://github.com/42dot)          |       llama-2       |     ❌     |        [🤗 Huggingface](https://huggingface.co/42dot/42dot_LLM-SFT-1.3B)        |
+|        [Ko-Platypus](https://github.com/Marker-Inc-Korea/KO-Platypus)        |               7B                | [Marker Inc.](https://github.com/Marker-Inc-Korea) |       llama-2       |     ❓     |      [🤗 Huggingface](https://huggingface.co/kyujinpy/KO-Platypus2-7B-ex)       |
+|           [sitebunny](https://huggingface.co/42MARU/sitebunny-13b)           |               13B               |      [42MARU](https://huggingface.co/42MARU)       |       llama-2       |     ✅     |          [🤗 Huggingface](https://huggingface.co/42MARU/sitebunny-13b)          |
+|           [ChatSKKU](https://huggingface.co/jojo0217/ChatSKKU5.8B)           |              5.8B               |      [jojo0217](https://github.com/JoJo0217)       |     Polyglot-Ko     |     ❓     |         [🤗 Huggingface](https://huggingface.co/jojo0217/ChatSKKU5.8B)          |
+|             [nallm](https://github.com/Nara-Information/NA-LLM)              |           1.3B, 3.8B            |   [나라지식정보](https://github.com/Nara-Information)    |     Polyglot-Ko     |     ❓     |  [🤗 Huggingface](https://huggingface.co/Nara-Lab/nallm-polyglot-ko-3.8b-base)  |
 
 ## 한국어 오픈소스 LLM 모델
 
@@ -34,6 +38,8 @@
     - [KuLLM](https://github.com/nlpai-lab/KULLM)
     - [KORani](https://github.com/krafton-ai/KORani)
     - [K(G)OAT](https://github.com/Marker-Inc-Korea/K-G-OAT)
+    - [ChatSKKU](https://huggingface.co/jojo0217/ChatSKKU5.8B)
+    - [nallm](https://github.com/Nara-Information/NA-LLM)
 
 ### 2-1. Llama 기반
 
@@ -49,6 +55,8 @@
 - [Llama-2-ko-7b-Chat](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)
 - [42dot_LLM-PLM-1.3B](https://huggingface.co/42dot/42dot_LLM-PLM-1.3B)
 - [42dot_LLM-SFT-1.3B](https://huggingface.co/42dot/42dot_LLM-SFT-1.3B)
+- [Ko-Platypus](https://github.com/Marker-Inc-Korea/KO-Platypus)
+- [sitebunny](https://huggingface.co/42MARU/sitebunny-13b)
 
 ### 3. 기타
 
