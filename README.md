@@ -22,8 +22,8 @@
 |                 [KoGPT](https://github.com/kakaobrain/kogpt)                 |               6B                |      [카카오브레인](https://github.com/kakaobrain)       |          ❓          |     ❌     | [🤗 Huggingface](https://huggingface.co/kakaobrain/kogpt/tree/KoGPT6B-ryan1.5b) |
 |                  [KoGPT2](https://github.com/SKT-AI/KoGPT2)                  |              1.5B               |          [SKT](https://github.com/SKT-AI)          |        GPT-2        |     ❌     |                                        ❓                                        |
 |    [Llama-2-ko-7b-Chat](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)     |               7B                |    [taemin6697](https://github.com/taemin6697)     |       llama-2       |     ✅     |        [🤗 Huggingface](https://huggingface.co/kfkas/Llama-2-ko-7b-Chat)        |
-|    [42dot_LLM-PLM-1.3B](https://huggingface.co/42dot/42dot_LLM-PLM-1.3B)     |              1.3B               |    [42dot](https://github.com/42dot)     |       llama-2       |     ❌     |        [🤗 Huggingface](https://huggingface.co/42dot/42dot_LLM-PLM-1.3B)        |
-|    [42dot_LLM-SFT-1.3B](https://huggingface.co/42dot/42dot_LLM-SFT-1.3B)     |              1.3B               |    [42dot](https://github.com/42dot)     |       llama-2       |     ❌     |        [🤗 Huggingface](https://huggingface.co/42dot/42dot_LLM-SFT-1.3B)        |
+|    [42dot_LLM-PLM-1.3B](https://huggingface.co/42dot/42dot_LLM-PLM-1.3B)     |              1.3B               |         [42dot](https://github.com/42dot)          |       llama-2       |     ❌     |        [🤗 Huggingface](https://huggingface.co/42dot/42dot_LLM-PLM-1.3B)        |
+|    [42dot_LLM-SFT-1.3B](https://huggingface.co/42dot/42dot_LLM-SFT-1.3B)     |              1.3B               |         [42dot](https://github.com/42dot)          |       llama-2       |     ❌     |        [🤗 Huggingface](https://huggingface.co/42dot/42dot_LLM-SFT-1.3B)        |
 
 ## 한국어 오픈소스 LLM 모델
 
