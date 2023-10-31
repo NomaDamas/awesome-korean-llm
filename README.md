@@ -28,6 +28,7 @@
 |           [sitebunny](https://huggingface.co/42MARU/sitebunny-13b)           |               13B               |      [42MARU](https://huggingface.co/42MARU)       |       llama-2       |     ✅     |          [🤗 Huggingface](https://huggingface.co/42MARU/sitebunny-13b)          |
 |           [ChatSKKU](https://huggingface.co/jojo0217/ChatSKKU5.8B)           |              5.8B               |      [jojo0217](https://github.com/JoJo0217)       |     Polyglot-Ko     |     ❓     |         [🤗 Huggingface](https://huggingface.co/jojo0217/ChatSKKU5.8B)          |
 |             [nallm](https://github.com/Nara-Information/NA-LLM)              |           1.3B, 3.8B            |   [나라지식정보](https://github.com/Nara-Information)    |     Polyglot-Ko     |     ❓     |  [🤗 Huggingface](https://huggingface.co/Nara-Lab/nallm-polyglot-ko-3.8b-base)  |
+|     [Mi:dm (믿:음)](https://huggingface.co/KT-AI/midm-bitext-S-7B-inst-v1)    |               7B                |          [KT](https://huggingface.co/KT-AI)         |          ❓          |     ❌     |  [🤗 Huggingface](https://huggingface.co/KT-AI/midm-bitext-S-7B-inst-v1)  |
 
 ## 한국어 오픈소스 LLM 모델
 
@@ -66,6 +67,7 @@
 - [KoGPT](https://github.com/kakaobrain/kogpt)
 - [KoGPT2](https://github.com/SKT-AI/KoGPT2)
 - [KoreanLM](https://github.com/quantumaikr/KoreanLM)
+- [Mi:dm (믿:음)](https://huggingface.co/KT-AI/midm-bitext-S-7B-inst-v1)
 
 ## Contributing
 
